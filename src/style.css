@@ -1,0 +1,10 @@
+.footer {
+  background-color: beige;
+  text-align: center;
+  padding: 30px;
+}
+.img {
+  height: 300px;
+  width: 250px;
+  object-fit: cover;
+}
